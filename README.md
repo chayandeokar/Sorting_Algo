@@ -1,7 +1,25 @@
 # Sorting_Algo
 
 ﻿# Sorting-Algorithms
-Includes counting sort O(n+k), Radix LSD sort O(nk), Merge Sort O(n log n), Quick Sort O(n Log n), Bubble sort O(n^2), selection sort O(n^2)
+Includes 
+
+
+counting sort O(n+k),
+
+
+Radix LSD sort O(nk), 
+
+
+Merge Sort O(n log n),
+
+
+Quick Sort O(n Log n),
+
+
+Bubble sort O(n^2), 
+
+
+selection sort O(n^2)
 
 About counting sort: No negative values allowed, must know highest and lowest values.
 Counting sort (sometimes referred to as ultra sort or math sort) is a sorting algorithm which (like bucket sort) takes advantage of knowing the range of the numbers in the array to be sorted (array A).
